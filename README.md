@@ -1,5 +1,5 @@
 # DataScience_Competition
---------------------------------
+
 ## 1. Kaggle & UCI dataset
 |대회명|모델|데이터셋|평가|
 |-|-|-|-|
