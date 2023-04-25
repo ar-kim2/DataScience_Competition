@@ -15,4 +15,4 @@
 |-|-|-|-|
 |전화 해지 여부 분류 AI 경진대회|Classification <br> StackingClassifier <br> [ExtraTreesClassifier+XGBClassifier]|30,200 rows, 13 cols|F1 score: 0.86046<br> 12 / 771 명|
 |데이콘 Basic 칼로리 소모량 예측 AI 경진대회|Regression <br> CatBoostRegressor|7,500 rows, 10 cols|RMSE: 0.42103 |
-|감귤 착과량 예측 AI 경진대회|Regression <br> AutoML|2,207 rows, 184 cols|RMSE: 0.07297 |
+|감귤 착과량 예측 AI 경진대회|Regression <br> AutoML|2,207 rows, 184 cols|NMAE: 0.07297 |
